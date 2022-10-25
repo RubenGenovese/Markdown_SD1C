@@ -1,2 +1,2 @@
 # Markdown_SD1C
-voorbeeld voor de github les
+voorbeeld van het werken met markdown de github les
